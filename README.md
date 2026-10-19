@@ -17,7 +17,6 @@ Herramienta ligera y portable desarrollada en Python para la conversión masiva 
 ```text
 ├── convertidor.py       # Script principal de Python
 ├── requirements.txt     # Dependencias del proyecto
-├── python_version.txt   # Versión de Python utilizada
 └── dist/
     └── convertidor.exe  # Ejecutable final listo para usar
 ```
